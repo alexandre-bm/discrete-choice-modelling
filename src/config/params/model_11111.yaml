@@ -1,0 +1,8 @@
+name: 'model_11111'
+data_path: 'data/ELISA_merged.csv'
+attributes: ['Acceleration', 'CO2', 'Charginginfrastructure', 'Chargingspeed', 'Homechargeravailability', 'Homedistnearestcharger', 'Operationcost', 'Purchaseprice', 'Range', 'Size', 'Yearlycost']
+characteristics: ['age', 'gender', 'income', 'education', 'occupation']
+scenario: {} #scenario: {'Purchaseprice': -0.1}
+nested: False
+estimation: False
+# test_size: 0.25

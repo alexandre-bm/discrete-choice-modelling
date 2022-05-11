@@ -1,1 +1,1 @@
-# discrete-model-choice
+Discrete choice modelling based on the ELISA dataset

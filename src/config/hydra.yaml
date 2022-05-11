@@ -1,0 +1,6 @@
+hydra:
+  run:
+    dir: ./src/logs
+  job:
+    name: ${now:%Y-%m-%d %H-%M-%S}
+  output_subdir: null # Disabled .config in output files

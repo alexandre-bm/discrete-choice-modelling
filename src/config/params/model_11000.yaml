@@ -1,0 +1,6 @@
+name: 'model 11000'
+data_path: 'data/ELISA_merged.csv'
+attributes: ['Acceleration', 'CO2', 'Charginginfrastructure', 'Chargingspeed', 'Homechargeravailability', 'Homedistnearestcharger', 'Operationcost', 'Purchaseprice', 'Range', 'Size', 'Yearlycost']
+characteristics: ['age', 'gender']
+nested: True
+# test_size: 0.25
